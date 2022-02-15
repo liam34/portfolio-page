@@ -20,8 +20,8 @@ export default function NavBar() {
     <nav>
         <h1>{ title }</h1>
         <div className='links'>
-        <Link to='/'>Landing Page</Link>
-        <Link to='/about'>Content and Achievements</Link>
+        <Link to='/'>Home</Link>
+        <Link to='/about'>Resume</Link>
         <Link to='/projects'>Portfolio Projects</Link>
         </div>
         

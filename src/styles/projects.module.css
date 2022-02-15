@@ -1,3 +1,13 @@
+/* add */
+@media (min-width:40em) {
+    .portfolio-container {
+        flex-direction: row;
+    }
+    .portfolio-container > * {
+        flex-basis: 100%;
+    }
+}
+
 .portfolio {
     text-align: center;
   }
