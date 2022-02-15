@@ -10,7 +10,7 @@ export default function Layout({ children }) {
             { children }
         </div>
         <footer>
-            <p>Copyright 2021 My Portfolio</p>
+            <p>Copyright 2021 LiamDesign </p>
         </footer>
     </div>
   )
