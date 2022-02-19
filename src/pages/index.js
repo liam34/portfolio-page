@@ -19,6 +19,13 @@ export default function Home({ data }) {
         <Img fluid={data.file.childImageSharp.fluid}/>
         
       </section>
+        
+      <section className="section-gap">
+        <div>
+          <br />
+          <br />
+        </div>
+      </section>
     </Layout>
   )
 }

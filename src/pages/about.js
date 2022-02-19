@@ -7,12 +7,39 @@ export default function About() {
   return (
       <Layout>
         <div>
-        <h1>Resume</h1>
+        
         <h2>My LinkedIn Profile</h2>
-        <Link className={styles.btn} to="https://www.linkedin.com/in/william-manese-b38b22128/">LinkedIn</Link>
-        <h2>https://www.linkedin.com/in/william-manese-b38b22128/</h2>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis ipsum corrupti nostrum iure ipsam, unde eveniet temporibus eaque distinctio porro, accusamus, cum officia! Numquam, quam dolores praesentium quae sapiente tenetur minima officia reprehenderit cupiditate minus ad animi, sit, cumque omnis earum totam sint maxime? Eveniet voluptatum officiis minus, debitis consectetur voluptas numquam animi magni sequi corporis ipsum odio voluptatibus nulla tempora, sunt aliquid? Ea qui recusandae eius nostrum dolorum saepe laboriosam dolorem molestiae, blanditiis expedita odit obcaecati, amet quia deserunt! Repellat at suscipit expedita vel nam, odit molestiae quo pariatur quod alias, explicabo quibusdam nostrum illo eum fugiat iusto corporis doloremque tempore! Eum molestias fuga dolor praesentium vitae, quaerat doloribus, aspernatur quas fugiat illo voluptate reiciendis amet aperiam ratione vero? A expedita, recusandae laboriosam deserunt aperiam nostrum, temporibus corrupti hic vero atque numquam nobis sed, magnam id ipsa quis animi quos pariatur alias quae! Accusamus labore non incidunt quasi debitis perspiciatis fugiat, excepturi exercitationem perferendis quas similique culpa impedit natus facilis hic dicta dolorum qui quis molestiae? Aperiam non delectus reprehenderit modi ipsa, necessitatibus fugit consequuntur maiores neque nihil velit provident, voluptates eius soluta accusamus ipsum harum id architecto sapiente, nemo ad rerum expedita? Quasi dolore dolores id omnis a.</p>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis ipsum corrupti nostrum iure ipsam, unde eveniet temporibus eaque distinctio porro, accusamus, cum officia! Numquam, quam dolores praesentium quae sapiente tenetur minima officia reprehenderit cupiditate minus ad animi, sit, cumque omnis earum totam sint maxime? Eveniet voluptatum officiis minus, debitis consectetur voluptas numquam animi magni sequi corporis ipsum odio voluptatibus nulla tempora, sunt aliquid? Ea qui recusandae eius nostrum dolorum saepe laboriosam dolorem molestiae, blanditiis expedita odit obcaecati, amet quia deserunt! Repellat at suscipit expedita vel nam, odit molestiae quo pariatur quod alias, explicabo quibusdam nostrum illo eum fugiat iusto corporis doloremque tempore! Eum molestias fuga dolor praesentium vitae, quaerat doloribus, aspernatur quas fugiat illo voluptate reiciendis amet aperiam ratione vero? A expedita, recusandae laboriosam deserunt aperiam nostrum, temporibus corrupti hic vero atque numquam nobis sed, magnam id ipsa quis animi quos pariatur alias quae! Accusamus labore non incidunt quasi debitis perspiciatis fugiat, excepturi exercitationem perferendis quas similique culpa impedit natus facilis hic dicta dolorum qui quis molestiae? Aperiam non delectus reprehenderit modi ipsa, necessitatibus fugit consequuntur maiores neque nihil velit provident, voluptates eius soluta accusamus ipsum harum id architecto sapiente, nemo ad rerum expedita? Quasi dolore dolores id omnis a.</p>
+        <Link className={styles.btn2} to="https://www.linkedin.com/in/william-manese-b38b22128/">LinkedIn</Link>
+        <br />
+        <br />  
+
+        <h2>About Me</h2>     
+        <p>I started my journey back Programming in 2019 when Im part of the first batch of Gov't of Alberta initiated a training
+           program for Software Development, Conducted by TechCareers A agency who manage and recruits qualified students based on their previous
+           experience and skills. This program is a great opportunity to learn current new skills and technology, the program run 6 months in a fast-paced before pandemic hits.
+           After graduating from the program, I pursue more studies thru CDI College where I finished a Diploma in Web and Mobile Application Development.
+        </p>
+        <p>I started my journey back Programming in 2019 when Im part of the first batch of Gov't of Alberta initiated a training
+           program for Software Development, Conducted by TechCareers A agency who manage and recruits qualified students based on their previous
+           experience and skills. This program is a great opportunity to learn current new skills and technology, the program run 6 months in a fast-paced before pandemic hits.
+           After graduating from the program, I pursue more studies thru CDI College where I finished a Diploma in Web and Mobile Application Development.
+        </p>
+        <p>I started my journey back Programming in 2019 when Im part of the first batch of Gov't of Alberta initiated a training
+           program for Software Development, Conducted by TechCareers A agency who manage and recruits qualified students based on their previous
+           experience and skills. This program is a great opportunity to learn current new skills and technology, the program run 6 months in a fast-paced before pandemic hits.
+           After graduating from the program, I pursue more studies thru CDI College where I finished a Diploma in Web and Mobile Application Development.
+        </p>
+        <p>I started my journey back Programming in 2019 when Im part of the first batch of Gov't of Alberta initiated a training
+           program for Software Development, Conducted by TechCareers A agency who manage and recruits qualified students based on their previous
+           experience and skills. This program is a great opportunity to learn current new skills and technology, the program run 6 months in a fast-paced before pandemic hits.
+           After graduating from the program, I pursue more studies thru CDI College where I finished a Diploma in Web and Mobile Application Development.
+        </p>
+
+        <br />
+        <h2>Resume</h2>
+        <br />
+        <h2>Featured</h2>
+        <p>Development in React.js, Im using Gatsby.js for static websites, mostly </p>
         </div>
     </Layout>
   )

@@ -1,4 +1,5 @@
-.details h2 {
+@media screen and (min-width: 250px) and (max-width: 1980px) {
+  .details h2 {
     font-size: 3.5em;
     margin-top: 80px;
   }
@@ -13,3 +14,4 @@
   .featured {
     margin-bottom: 40px;
   }
+}
