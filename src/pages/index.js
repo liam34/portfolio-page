@@ -11,7 +11,7 @@ export default function Home({ data }) {
       <section className={styles.header}>
       
         <div>
-          <h2>Liam Design</h2>
+          <h2>Liam Portfolio Design</h2>
           <h3>Develop & Deploy</h3>
           <p>UX designer & web developer based in Edmonton.</p>
           <Link className={styles.btn} to="/projects">My Portfolio Projects</Link>
