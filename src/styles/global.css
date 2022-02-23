@@ -1,3 +1,4 @@
+@media screen and (min-width: 250px) and (max-width: 1980px) {
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap');
 
 * {
@@ -50,8 +51,56 @@ p {
   nav a:hover {
     border-color: white;
   }
+
+  .section-gap {
+    padding: 40px 0;
+  }
+}
+
+  /* Social media icons */
+  @media screen and (min-width: 250px) and (max-width: 1980px) {
+  .footer__social {
+      margin-bottom: .55rem;
+  }
+  
+  
+  .footer__social {
+      grid-area: social;  
+  }
+  
+  .footer__social a {
+    display: fixed;
+    height: 1.25rem;
+    
+  }
+  .footer__social a svg path {
+    transition: fill 150ms ease-in-out;
+  }
+  .footer__social a:hover svg path {
+    fill: #31d35c;
+  }
+  .footer__social a:not(:last-child) {
+    margin-right: 1rem;
+  }
+
+  .footer-section {
+    display: grid;
+    align-items: center;
+  }
+
+  .footer {
+    position: fixed;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    width: 100%;
+    /* Height of the footer*/ 
+    height: 40px;
+    background: grey;
+  }
+
   footer p{
     text-align: center;
     color: #bbb;
-    margin: 40px auto;
+    margin: 10px auto;
   }
+}

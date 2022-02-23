@@ -1,27 +1,45 @@
 import React from 'react'
 import Layout from "../components/Layout"
+import * as styles from '../styles/home.module.css'
+import { Link } from 'gatsby'
 
 export default function About() {
   return (
       <Layout>
         <div>
-        <h1>About page</h1>
-         <p>Diploma in Web and Mobile App Development
-            CDI College - Edmonton, AB
-            September 2020 to December 18, 2021
+        
+        <h2>My LinkedIn Profile</h2>
+        <Link className={styles.btn2} to="https://www.linkedin.com/in/william-manese-b38b22128/">LinkedIn</Link>
+        <br />
+        <br />  
 
-            Certificate - Coursera in Google IT Support
-            March 2020 to May 2020
+        <h2>About Me</h2>     
+        <p>I started my journey back Programming in 2019 when Im part of the first batch of Gov't of Alberta initiated a training
+           program for Software Development, Conducted by TechCareers A agency who manage and recruits qualified students based on their previous
+           experience and skills. This program is a great opportunity to learn current new skills and technology, the program run 6 months in a fast-paced before pandemic hits.
+           After graduating from the program, I pursue more studies thru CDI College where I finished a Diploma in Web and Mobile Application Development.
+        </p>
+        <p>I started my journey back Programming in 2019 when Im part of the first batch of Gov't of Alberta initiated a training
+           program for Software Development, Conducted by TechCareers A agency who manage and recruits qualified students based on their previous
+           experience and skills. This program is a great opportunity to learn current new skills and technology, the program run 6 months in a fast-paced before pandemic hits.
+           After graduating from the program, I pursue more studies thru CDI College where I finished a Diploma in Web and Mobile Application Development.
+        </p>
+        <p>I started my journey back Programming in 2019 when Im part of the first batch of Gov't of Alberta initiated a training
+           program for Software Development, Conducted by TechCareers A agency who manage and recruits qualified students based on their previous
+           experience and skills. This program is a great opportunity to learn current new skills and technology, the program run 6 months in a fast-paced before pandemic hits.
+           After graduating from the program, I pursue more studies thru CDI College where I finished a Diploma in Web and Mobile Application Development.
+        </p>
+        <p>I started my journey back Programming in 2019 when Im part of the first batch of Gov't of Alberta initiated a training
+           program for Software Development, Conducted by TechCareers A agency who manage and recruits qualified students based on their previous
+           experience and skills. This program is a great opportunity to learn current new skills and technology, the program run 6 months in a fast-paced before pandemic hits.
+           After graduating from the program, I pursue more studies thru CDI College where I finished a Diploma in Web and Mobile Application Development.
+        </p>
 
-            Certificate in Software Development in Software Development
-            Southern alberta institute of technology - Calgary, AB
-            February 2019 to August 2019
-
-            Certificate in Nait PC Support and Services
-            Nait - Northern Alberta Institute of Technology - Edmonton, AB - Edmonton, AB
-            December 2016 to February 2017</p>
-        <p></p>
-        <p></p>
+        <br />
+        <h2>Resume</h2>
+        <br />
+        <h2>Featured</h2>
+        <p>Development in React.js, Im using Gatsby.js for static websites, mostly </p>
         </div>
     </Layout>
   )
