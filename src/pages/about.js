@@ -18,21 +18,28 @@ export default function About() {
            program for Software Development, Conducted by TechCareers A agency who manage and recruits qualified students based on their previous
            experience and skills. This program is a great opportunity to learn current new skills and technology, the program run 6 months in a fast-paced before pandemic hits.
            After graduating from the program, I pursue more studies thru CDI College where I finished a Diploma in Web and Mobile Application Development.
+
+           Diploma in Web and Mobile App Development
+           CDI College - Edmonton, AB
+           Graduated with Honors - September 2020 to December 18, 2021
+
+           Certificate - Coursera in Google IT Support
+           Coursera - Remote
+           March 2020 to May 2020
+
+           Certificate in Software Development in Software Development
+           Southern alberta institute of technology - Calgary, AB
+           February 2019 to August 2019
+
+           Certificate in Nait PC Support and Services
+           Nait - Northern Alberta Institute of Technology - Edmonton, AB 
+           December 2016 to February 2017
         </p>
-        <p>I started my journey back Programming in 2019 when Im part of the first batch of Gov't of Alberta initiated a training
-           program for Software Development, Conducted by TechCareers A agency who manage and recruits qualified students based on their previous
-           experience and skills. This program is a great opportunity to learn current new skills and technology, the program run 6 months in a fast-paced before pandemic hits.
-           After graduating from the program, I pursue more studies thru CDI College where I finished a Diploma in Web and Mobile Application Development.
+        <p>
         </p>
-        <p>I started my journey back Programming in 2019 when Im part of the first batch of Gov't of Alberta initiated a training
-           program for Software Development, Conducted by TechCareers A agency who manage and recruits qualified students based on their previous
-           experience and skills. This program is a great opportunity to learn current new skills and technology, the program run 6 months in a fast-paced before pandemic hits.
-           After graduating from the program, I pursue more studies thru CDI College where I finished a Diploma in Web and Mobile Application Development.
+        <p>
         </p>
-        <p>I started my journey back Programming in 2019 when Im part of the first batch of Gov't of Alberta initiated a training
-           program for Software Development, Conducted by TechCareers A agency who manage and recruits qualified students based on their previous
-           experience and skills. This program is a great opportunity to learn current new skills and technology, the program run 6 months in a fast-paced before pandemic hits.
-           After graduating from the program, I pursue more studies thru CDI College where I finished a Diploma in Web and Mobile Application Development.
+        <p>
         </p>
 
         <br />
